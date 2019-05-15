@@ -1,0 +1,15 @@
+{application, barrel_encoding,
+ [{description, "sortable serialiaation library"},
+  {vsn, "0.1.0"},
+  {registered, []},
+  {applications,
+   [kernel,
+    stdlib
+   ]},
+  {env,[]},
+  {modules, []},
+
+  {maintainers, ["Benoit Chesneau"]},
+  {licenses, ["Apache 2.0"]},
+  {links, [{"Github", "sortable serialiaation library"}]}
+ ]}.
