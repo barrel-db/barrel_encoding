@@ -11,5 +11,5 @@
 
   {maintainers, ["Benoit Chesneau"]},
   {licenses, ["Apache 2.0"]},
-  {links, [{"Github", "sortable serialiaation library"}]}
+  {links, [{"Github", "https://github.com/barrel-db/barrel_encoding"}]}
  ]}.
